@@ -1,5 +1,19 @@
-##1.
-```
+## 1. Диаграмма бд
+![Диаграмма бд](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd1.png)
 
-```
+## 2. Просмотр структуры таблицы
+![Просмотр структуры таблицы](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd2.png)
 
+## 3. Изменение структуры таблицы
+![Изменение структуры таблицы](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd3.png)
+-
+![Изменение структуры таблицы](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd5.png)
+
+## 4. Просмотр после изменения таблицы
+![Просмотр после изменения таблицы](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd4.png)
+
+## 5. Declare
+![declare](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd6.png)
+
+## 6. Оператор PRINT
+![Оператор print](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd7.png)
