@@ -17,3 +17,9 @@
 
 ## 6. Оператор PRINT
 ![Оператор print](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd7.png)
+
+## 7. Оператор CAST
+изменение числа мест в одной аудитории
+![Оператор cast](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd8.png)
+-
+![Оператор cast](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd9.png)
