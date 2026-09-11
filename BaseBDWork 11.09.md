@@ -32,3 +32,12 @@
 ## 9. If Else
 ![ifelse](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd12.png)
 
+## 10. Case
+![case](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd13.png)
+-
+![case](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd14.png)
+
+## 11. While
+![while](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd15.png)
+-
+![while](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd16.png)
