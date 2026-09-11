@@ -23,3 +23,12 @@
 ![Оператор cast](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd8.png)
 -
 ![Оператор cast](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd9.png)
+
+## 8. Begin end
+![beginend](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd10.png)
+-
+![beginend](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd11.png)
+
+## 9. If Else
+![ifelse](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd12.png)
+
