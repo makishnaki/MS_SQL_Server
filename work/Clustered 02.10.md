@@ -33,4 +33,15 @@ Key lookup используется, потому что в запросе ну�
 ![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd50.png) 
 - Полное сканирование потому что условию соответствуют все строчки
 
-# Влияние selectivity на выбор индекса
+
+# Хранилище запросов
+## Топ ресурсоемких запросов
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd57.png) 
+
+## Общее потребление ресурсов
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd58.png) 
+
+## Статистика ожидания запросов
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd59.png) 
+
+
