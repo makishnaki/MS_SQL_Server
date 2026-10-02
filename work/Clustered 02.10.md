@@ -32,3 +32,5 @@ Key lookup используется, потому что в запросе ну�
 
 ![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd50.png) 
 - Полное сканирование потому что условию соответствуют все строчки
+
+# Влияние selectivity на выбор индекса
