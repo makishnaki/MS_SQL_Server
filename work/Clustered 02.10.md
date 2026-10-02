@@ -45,3 +45,9 @@ Key lookup используется, потому что в запросе ну�
 ![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd59.png) 
 
 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd51.png) 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd52.png) 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd53.png) 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd54.png) 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd55.png) 
+![функция](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/bd56.png) 
