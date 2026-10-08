@@ -1,0 +1,5 @@
+![audit](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/Screenshot_1.png)
+![audit](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/Screenshot_2.png)
+![audit](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/Screenshot_3.png)
+![audit](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/Screenshot_4.png)
+![audit](https://github.com/makishnaki/MS_SQL_Server/blob/main/picFolder/Screenshot_5.png)
